@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1457997071 source:c:\users\maria kury\desktop\progra sistemas\estructurapractica\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

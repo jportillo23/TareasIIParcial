@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1457401492 source:c:\users\rafael\desktop\periodo progra\extra\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
